@@ -1,0 +1,3 @@
+---
+- src: https://github.com/bmangoen/ansible-azure
+  name: bmangoen.ansible-azure
