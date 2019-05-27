@@ -1,0 +1,8 @@
+---
+- name: create VMware virtual machine
+  hosts: localhost
+  pre_tasks:
+  - name: include vars file
+    include_vars: group_vars/vmware.yml
+  roles:
+  - role: ansible-vmware

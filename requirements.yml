@@ -1,3 +1,6 @@
 ---
 - src: https://github.com/bmangoen/ansible-azure
-  name: bmangoen.ansible-azure
+  name: ansible-azure
+
+- src: https://github.com/bmangoen/ansible-vmware
+  name: ansible-vmware

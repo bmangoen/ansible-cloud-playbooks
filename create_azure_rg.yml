@@ -1,5 +1,0 @@
----
-- name: create Azure resource group
-  hosts: localhost
-  roles:
-  - role: bmangoen.ansible-azure
